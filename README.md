@@ -2,9 +2,8 @@
 https://gabriel-piles.github.io/
 
 
-### Publish site
+### Compile site
 
 ```
 hugo -D
-cp -r public/* ./../
 ```
