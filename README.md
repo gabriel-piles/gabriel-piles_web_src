@@ -7,3 +7,9 @@ https://gabriel-piles.github.io/
 ```
 hugo -D
 ```
+
+### Publish
+```
+go to gabriel-piles.github.io
+follow readme
+```
