@@ -1,2 +1,10 @@
-# gabriel-piles_web_src
-personal page source code 
+## Personal webpage
+https://gabriel-piles.github.io/
+
+
+### Publish site
+
+```
+hugo -D
+cp -r public/* ./../
+```
