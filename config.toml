@@ -1,4 +1,11 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "I'm Gabriel Piles"
 theme='hello-friend-ng'
+
+[menu]
+  [[menu.main]]
+    identifier = "cv"
+    name = "cv"
+    pre = "<i class='fa fa-heart'></i>"
+    url = "/cv/"
