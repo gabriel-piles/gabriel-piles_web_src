@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="756c866a-70a5-49b0-bf73-08a65a578a42" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/content/cv/_index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/gabo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/gabriel_piles_2019.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/gabriel_piles_2020.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/hello-friend-ng/layouts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hello-friend-ng/layouts/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/cv/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/cv/_index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/gabo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/gabriel_piles_2019.svg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/hello-friend-ng/layouts/partials/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hello-friend-ng/layouts/partials/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hello-friend-ng/layouts/partials/logo.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hello-friend-ng/layouts/partials/logo.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,13 +31,13 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/static" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/static" />
       <recent name="$PROJECT_DIR$/content/cv" />
       <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -51,11 +50,18 @@
       <updated>1605107812513</updated>
       <workItem from="1605107813554" duration="939000" />
       <workItem from="1605177370460" duration="896000" />
-      <workItem from="1605190049629" duration="859000" />
+      <workItem from="1605190049629" duration="1676000" />
+      <workItem from="1605437700512" duration="1698000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="698" y="305" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605437729208">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="698" y="305" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1680.90.1680.1027/0.23.1920.1057@0.23.1920.1057" timestamp="1605437729208" />
   </component>
 </project>
